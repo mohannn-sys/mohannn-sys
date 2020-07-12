@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Home.
-- 🌱 I’m currently learning ... Reinforcement Learning.
-- 👯 I’m looking to collaborate on ... Healthcare project.
-- 💬 Ask me about ... AI/ML, Data-Science, Statistics, Mathematics, Computer-Science and Mathematical-Finance.
-- 📫 How to reach me: ... Github.
+- 🔭 I’m currently working on Home.
+- 🌱 I’m currently learning Reinforcement Learning.
+- 👯 I’m looking to collaborate on Healthcare project.
+- 💬 Ask me about AI/ML, Data-Science, Statistics, Mathematics, Computer-Science and Mathematical-Finance.
+- 📫 How to reach me: Github.
 
 
 
